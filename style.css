@@ -1,0 +1,29 @@
+
+    
+.burn{
+    background-image: url('f96dfb9f9d4e0b42af3888de8b9473a7.gif');
+    width: 100%;
+    height: 200%;
+    background-size: cover;
+    background-position: center;
+    color: transparent;
+    background-clip: text;
+    -webkit-background-clip: text;
+    font-size: 100px;
+    border: 50px rgb(104, 129, 240) solid;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    font-weight: 800;
+    border-radius: 20%;
+}
+div{
+    background-color: rgb(153, 214, 209);
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    border-radius: 2px;
+    border-inline-start: 50px rgb(226, 5, 5) solid;
+    border-inline-end: 50px rgb(226, 5, 5) solid;
+
+}
